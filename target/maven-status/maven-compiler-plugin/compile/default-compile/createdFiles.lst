@@ -1,0 +1,12 @@
+com\mycompany\bciisa\JAXRSConfiguration.class
+Model\Conexion.class
+Controller\NewServletRegistroEditorial.class
+Controller\NewServletRegistroAutor.class
+Controller\NewServletRegistroCliente.class
+Controller\NewServletRegistroUsuario.class
+Controller\NewServletSearchEditorial.class
+DAO\DAOEditorial.class
+Controller\NewServletRegistroLibro.class
+Controller\NewServletLogin.class
+com\mycompany\bciisa\resources\JavaEE8Resource.class
+Model\CrudEditorial.class
